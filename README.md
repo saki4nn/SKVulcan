@@ -1,6 +1,5 @@
 # 🌋 SKVulcan — Продвинутый ивент «Извержение вулкана»
 
-![Version](https://img.shields.io/badge/Version-1.0--SNAPSHOT-orange)
 ![API](https://img.shields.io/badge/API-Spigot/Bukkit-gold)
 ![Dev](https://img.shields.io/badge/Developer-SkyKnock%20DEV-blue)
 
