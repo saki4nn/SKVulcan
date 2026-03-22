@@ -1,0 +1,17 @@
+name: SkVulcan
+version: 1.0
+main: saki4.skvulcan.SKVulcan
+api-version: 1.16
+depend: [WorldEdit, WorldGuard]
+commands:
+  skvulcan:
+    description: Главная команда вулкана
+permissions:
+  skvulcan.*:
+    description: Все права на плагин
+    children:
+      skvulcan.start: true
+      skvulcan.stop: true
+      skvulcan.delay: true
+      skvulcan.gui: true
+      skvulcan.tp: true
